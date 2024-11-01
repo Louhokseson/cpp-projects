@@ -11,7 +11,7 @@
 //*****************************************************************************************************
 
 #include <iostream>
-// The iostream library is used to include the input/output stream functions.
+// Include the input/output stream functions from the standard C++ library(std).
 using namespace std;
 // The std namespace is used to include the standard C++ library functions.
 
